@@ -16,6 +16,8 @@ package com.db;
             git config --global user.email "you@example.com"
             git config --global user.name "Your Name"
 
+            Some changes......
+
     GitHub -> A cloud storage for Git repositories.
             -> Lets you share and collaborate with others.
  */
